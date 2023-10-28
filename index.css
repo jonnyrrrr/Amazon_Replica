@@ -1,0 +1,114 @@
+* {
+    /* border: 1px solid red; */
+}
+
+.amazon_sign_in {
+    align-items: center;
+    width: 420px;
+    margin-left: 425px;
+    margin-top: 85px;   
+     border: 1px solid lightgray;
+    margin-right: 20px;
+    padding-left: 0px;
+    padding-bottom: 50px;
+}
+
+.sign_in {
+    padding-top: 0px;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+h1 {
+    margin-top: 3px;
+    margin-left: 17px;
+    margin-bottom: 6px;
+}
+
+.email {
+    font-size: .7em;
+    margin-left: 17px;
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: grey;
+}
+
+.input1 {
+    margin-left: 17px;
+    border-radius: 50px;
+}
+
+.password {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    font-size: .7em;
+}
+
+.input2 {
+    margin-left: 17px;
+}
+
+.continue {
+    justify-content: center;
+    margin-left: 16px;
+    margin-top: 18px;
+    width: 50;
+
+}
+
+button {
+    width: 390px;
+    background-color: rgb(255, 187, 0);
+    height: 30px;
+    border: 1px solid darkslategray;
+}
+
+.cont {
+    margin-left: 30px;
+    margin-top: 18px;
+}
+
+a {
+    padding-left: 0px;
+}
+
+.new {
+    display: flex;
+    flex-direction: column;
+    margin-left: 445px;
+}
+
+.newto {
+    margin-left: 150px;
+    padding-top: 10px;
+    font-size: .8em;
+}
+
+footer {
+    margin-left: 0px;
+    border-color: 1px solid red;
+    border-width: 1px;
+    margin-top: 92px;
+}
+
+.bottom {
+margin-bottom: 30px;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-left: 0px;
+}
+
+.copy {
+display: flex;
+flex-direction: row;
+justify-content: center;
+color: gray;
+}
